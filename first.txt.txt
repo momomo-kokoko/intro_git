@@ -1,3 +1,4 @@
 Gitの練習中です．
 こんにちは
 git add
+git remove
